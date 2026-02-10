@@ -1,1 +1,1 @@
-hola esto es una prueba desde terminal para chequear otro commit
+hola esto es una prueba desde terminal para corregir un fichero
